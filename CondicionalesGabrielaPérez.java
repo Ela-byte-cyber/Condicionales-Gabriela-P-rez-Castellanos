@@ -9,8 +9,8 @@
  */
 public class CondicionalesGabrielaPérez {
     
-    public static void main(string[] args){
-        string danza = "House";
+    public static void main(String[] args){
+        String danza = "House";
         
         if (danza == "hip hop"){
             System.out.println(x: "Usar ropa overzise");
